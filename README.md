@@ -11,9 +11,9 @@ Producto: ATB Video Player
 Lenguaje: Java
 -----------------------------
 -----------------------------
-Empresa:  BISA
-Producto: BISA Neo
-Lenguaje: Ionic, Cordova, Java
+Empresa:  Impuestos Nacionales
+Producto: QR110Facilito
+Lenguaje: Java
 -----------------------------
 -----------------------------
 Empresa:  CSBP
